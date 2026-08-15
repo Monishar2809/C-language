@@ -23,5 +23,5 @@ int main()
 {
     void biggest();
     biggest();
-    return 0;
+    return(0);
 }
